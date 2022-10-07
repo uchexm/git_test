@@ -26,4 +26,5 @@ let spaceship = {
       }
     }
   }; 
+  console.log(spaceship);
   
