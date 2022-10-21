@@ -28,7 +28,7 @@ let spaceship = {
   }; 
   console.log(spaceship);
 
-///////////////////////////
+//////////////////////////////
 
   let spaceship = {
     passengers : [{name:"uche"}],
